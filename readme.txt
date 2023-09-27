@@ -1,7 +1,5 @@
 # Car Sales Interactive Power BI Dashboard
 
-![Car Sales Dashboard Preview](dashboard_preview.png)
-
 ## Overview
 
 This repository contains a Power BI dashboard designed to provide comprehensive insights into car sales data. The dashboard is built using Power BI, a powerful data visualization and business intelligence tool, to help users analyze and make data-driven decisions regarding car sales.
@@ -64,9 +62,6 @@ To explore the Car Sales Interactive Power BI Dashboard, follow these steps:
 
 - Power BI Desktop: [Download](https://powerbi.microsoft.com/desktop)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Feedback and Contributions
 
@@ -74,7 +69,7 @@ We welcome feedback, bug reports, and contributions from the community. If you h
 
 ## Author
 
-[Your Name]
+Pratik Shetake
 
 ## Acknowledgments
 
